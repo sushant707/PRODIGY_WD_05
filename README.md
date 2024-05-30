@@ -4,14 +4,7 @@ Global Weather App is a user-friendly weather application that allows users to c
 
 <p>Click here to see live application: https://sushant707.github.io/PRODIGY_WD_05/</p> 
 
-<div align="center">
 
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/devjainofficial/Weather-app)
-<img src="https://img.shields.io/badge/HacktoberFest-2023-blueviolet" alt="Hacktober Badge"/>
-<img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://github.com/devjainofficial" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
-
-</div>
 
 ## Features
 
@@ -29,19 +22,6 @@ Global Weather App is a user-friendly weather application that allows users to c
 - **JavaScript:** For implementing interactive elements and fetching data from the weather API.
 - **Weather API:** Utilized to retrieve real-time weather data for the specified locations.
 
-## How to Use
-
-1. **Clone the Repository:**
-https://github.com/devjainofficial/Weather-app.git
-
-3. **Open `index.html`:**
-Open the `index.html` file in your preferred web browser.
-
-4. **Enter Location:**
-Type the name of the location you want to check the weather for in the provided input field.
-
-5. **View Weather Information:**
-Press the "Get Weather" button to view the current temperature and other weather parameters for the specified location.
 
 ## Screenshots
 
@@ -52,18 +32,6 @@ Press the "Get Weather" button to view the current temperature and other weather
 **Dark mode**
 
 ![darkmode](https://github.com/abhijeetsharnagat/Weather-app/assets/108009757/f77685f8-c428-416c-8992-56ac008c7d77)
-
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
-
-## Our Contributors:
-
-<a href="https://github.com/devjainofficial/Weather-app/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=devjainofficial/Weather-app" />
-</a>
-
 
 
 ## License
