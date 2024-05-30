@@ -34,8 +34,8 @@ Global Weather App is a user-friendly weather application that allows users to c
 
 ## How to Use
 
-1. **Clone the Repository:**
-https://github.com/devjainofficial/Weather-app.git
+<!-- 1. **Clone the Repository:**
+https://github.com/devjainofficial/Weather-app.git -->
 
 3. **Open `index.html`:**
 Open the `index.html` file in your preferred web browser.
