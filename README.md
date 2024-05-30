@@ -2,10 +2,7 @@
 
 Global Weather App is a user-friendly weather application that allows users to check the current temperature and various weather parameters for any location across the globe. This application has been built using HTML, CSS, JavaScript, and a weather API.
 
-<p>Click here to see live application: https://global-weather-app-dev.netlify.app</p> 
-
-<p>Click here to see updated (Dark mode toggle) live application: https://sushant707.github.io/PRODIGY_WD_05//</p> 
-
+<p>Click here to see live application: https://sushant707.github.io/PRODIGY_WD_05/</p> 
 
 <div align="center">
 
